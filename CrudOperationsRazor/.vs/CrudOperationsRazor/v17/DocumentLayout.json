@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|d:\\jeya\\crud_razor\\crudoperationsrazor\\pages\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|solutionrelative:pages\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|d:\\jeya\\crud_razor\\crudoperationsrazor\\pages\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|solutionrelative:pages\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F531E503-17DB-4140-8C1A-BF330A321DFB}|..\\CrudOperationsRazor.Application\\CrudOperationsRazor.Application.csproj|d:\\jeya\\crud_razor\\crudoperationsrazor.application\\custom\\productsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB573BA-B3F3-4098-A841-4D03FC1D0F8C}|..\\CrudOperationsRazor.Infrastructure\\CrudOperationsRazor.Infrastructure.csproj|d:\\jeya\\crud_razor\\crudoperationsrazor.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCD231-E2D3-4C02-98BE-13D46911E39D}|..\\CrudOperationsRazor.Domain\\CrudOperationsRazor.Domain.csproj|d:\\jeya\\crud_razor\\crudoperationsrazor.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB573BA-B3F3-4098-A841-4D03FC1D0F8C}|..\\CrudOperationsRazor.Infrastructure\\CrudOperationsRazor.Infrastructure.csproj|d:\\jeya\\crud_razor\\crudoperationsrazor.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB573BA-B3F3-4098-A841-4D03FC1D0F8C}|..\\CrudOperationsRazor.Infrastructure\\CrudOperationsRazor.Infrastructure.csproj|d:\\jeya\\crud_razor\\crudoperationsrazor.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB573BA-B3F3-4098-A841-4D03FC1D0F8C}|..\\CrudOperationsRazor.Infrastructure\\CrudOperationsRazor.Infrastructure.csproj|d:\\jeya\\crud_razor\\crudoperationsrazor.infrastructure\\crudoperationsrazor.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F531E503-17DB-4140-8C1A-BF330A321DFB}|..\\CrudOperationsRazor.Application\\CrudOperationsRazor.Application.csproj|d:\\jeya\\crud_razor\\crudoperationsrazor.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F531E503-17DB-4140-8C1A-BF330A321DFB}|..\\CrudOperationsRazor.Application\\CrudOperationsRazor.Application.csproj|d:\\jeya\\crud_razor\\crudoperationsrazor.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|d:\\jeya\\crud_razor\\crudoperationsrazor\\pages\\shared\\_productformpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|solutionrelative:pages\\shared\\_productformpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|d:\\jeya\\crud_razor\\crudoperationsrazor\\pages\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|solutionrelative:pages\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|d:\\jeya\\crud_razor\\crudoperationsrazor\\pages\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|solutionrelative:pages\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F531E503-17DB-4140-8C1A-BF330A321DFB}|..\\CrudOperationsRazor.Application\\CrudOperationsRazor.Application.csproj|d:\\jeya\\crud_razor\\crudoperationsrazor.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|d:\\jeya\\crud_razor\\crudoperationsrazor\\pages\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|solutionrelative:pages\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|d:\\jeya\\crud_razor\\crudoperationsrazor\\pages\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|solutionrelative:pages\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|d:\\jeya\\crud_razor\\crudoperationsrazor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|d:\\jeya\\crud_razor\\crudoperationsrazor\\pages\\products\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|solutionrelative:pages\\products\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|d:\\jeya\\crud_razor\\crudoperationsrazor\\pages\\products\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|solutionrelative:pages\\products\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|d:\\jeya\\crud_razor\\crudoperationsrazor\\pages\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|solutionrelative:pages\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|d:\\jeya\\crud_razor\\crudoperationsrazor\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|solutionrelative:pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|d:\\jeya\\crud_razor\\crudoperationsrazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F531E503-17DB-4140-8C1A-BF330A321DFB}|..\\CrudOperationsRazor.Application\\CrudOperationsRazor.Application.csproj|d:\\jeya\\crud_razor\\crudoperationsrazor.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|d:\\jeya\\crud_razor\\crudoperationsrazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A1ABE1E-903D-4E1D-B743-883986559592}|CrudOperationsRazor.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCD231-E2D3-4C02-98BE-13D46911E39D}|..\\CrudOperationsRazor.Domain\\CrudOperationsRazor.Domain.csproj|d:\\jeya\\crud_razor\\crudoperationsrazor.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\Pages\\Products\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Products\\Index.cshtml.cs",
+              "ToolTip": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\Pages\\Products\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Products\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:01:08.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor.Application\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "..\\CrudOperationsRazor.Application\\DTOs\\ProductDto.cs",
+              "ToolTip": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor.Application\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "..\\CrudOperationsRazor.Application\\DTOs\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:25:01.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ProductFormPartial.cshtml",
+              "DocumentMoniker": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\Pages\\Shared\\_ProductFormPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_ProductFormPartial.cshtml",
+              "ToolTip": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\Pages\\Shared\\_ProductFormPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_ProductFormPartial.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T16:38:46.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor.Infrastructure\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "..\\CrudOperationsRazor.Infrastructure\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor.Infrastructure\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "..\\CrudOperationsRazor.Infrastructure\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:28:23.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\CrudOperationsRazor.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\CrudOperationsRazor.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:02:47.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\Pages\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Products\\Create.cshtml",
+              "ToolTip": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\Pages\\Products\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T16:24:02.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "..\\CrudOperationsRazor.Domain\\Entities\\Product.cs",
+              "ToolTip": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "..\\CrudOperationsRazor.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:20:01.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CrudOperationsRazor.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor.Infrastructure\\CrudOperationsRazor.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\CrudOperationsRazor.Infrastructure\\CrudOperationsRazor.Infrastructure.csproj",
+              "ToolTip": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor.Infrastructure\\CrudOperationsRazor.Infrastructure.csproj",
+              "RelativeToolTip": "..\\CrudOperationsRazor.Infrastructure\\CrudOperationsRazor.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-17T03:14:24.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\Pages\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Products\\Index.cshtml",
+              "ToolTip": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\Pages\\Products\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Products\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T02:29:09.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\CrudOperationsRazor.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "..\\CrudOperationsRazor.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwDQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:28:44.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\Pages\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Products\\Details.cshtml",
+              "ToolTip": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\Pages\\Products\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Products\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T02:21:17.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\Pages\\Products\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Products\\Delete.cshtml.cs",
+              "ToolTip": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\Pages\\Products\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Products\\Delete.cshtml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAC0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:12:58.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsQuery.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor.Application\\Custom\\ProductsQuery.cs",
+              "RelativeDocumentMoniker": "..\\CrudOperationsRazor.Application\\Custom\\ProductsQuery.cs",
+              "ToolTip": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor.Application\\Custom\\ProductsQuery.cs",
+              "RelativeToolTip": "..\\CrudOperationsRazor.Application\\Custom\\ProductsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:40:13.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\CrudOperationsRazor.Application\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "..\\CrudOperationsRazor.Application\\Services\\ProductService.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAuwDwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:25:40.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\Pages\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Products\\Delete.cshtml",
+              "ToolTip": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\Pages\\Products\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Products\\Delete.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwCAAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T02:12:29.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor.Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\CrudOperationsRazor.Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor.Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "..\\CrudOperationsRazor.Application\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:25:23.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T15:19:40.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\Pages\\Products\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Products\\Create.cshtml.cs",
+              "ToolTip": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\Pages\\Products\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Products\\Create.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:24:34.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\Pages\\Products\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Products\\Edit.cshtml.cs",
+              "ToolTip": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\Pages\\Products\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Products\\Edit.cshtml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAuwCAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:54:25.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T01:58:33.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\Pages\\Products\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Products\\Details.cshtml.cs",
+              "ToolTip": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\Pages\\Products\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Products\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:21:48.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T02:27:18.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:12:31.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\CrudOperationsRazor.Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\CrudOperationsRazor.Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:05:07.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\CrudOperationsRazor.Domain\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\Jeya\\CRUD_Razor\\CrudOperationsRazor.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "..\\CrudOperationsRazor.Domain\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:21:36.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

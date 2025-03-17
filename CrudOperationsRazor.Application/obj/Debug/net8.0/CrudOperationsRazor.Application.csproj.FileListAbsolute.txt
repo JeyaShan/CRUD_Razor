@@ -1,0 +1,15 @@
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Application\bin\Debug\net8.0\CrudOperationsRazor.Application.deps.json
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Application\bin\Debug\net8.0\CrudOperationsRazor.Application.dll
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Application\bin\Debug\net8.0\CrudOperationsRazor.Application.pdb
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Application\bin\Debug\net8.0\CrudOperationsRazor.Domain.dll
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Application\bin\Debug\net8.0\CrudOperationsRazor.Domain.pdb
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Application\obj\Debug\net8.0\CrudOperationsRazor.Application.csproj.AssemblyReference.cache
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Application\obj\Debug\net8.0\CrudOperationsRazor.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Application\obj\Debug\net8.0\CrudOperationsRazor.Application.AssemblyInfoInputs.cache
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Application\obj\Debug\net8.0\CrudOperationsRazor.Application.AssemblyInfo.cs
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Application\obj\Debug\net8.0\CrudOperationsRazor.Application.csproj.CoreCompileInputs.cache
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Application\obj\Debug\net8.0\CrudOper.5E7C5040.Up2Date
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Application\obj\Debug\net8.0\CrudOperationsRazor.Application.dll
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Application\obj\Debug\net8.0\refint\CrudOperationsRazor.Application.dll
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Application\obj\Debug\net8.0\CrudOperationsRazor.Application.pdb
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Application\obj\Debug\net8.0\ref\CrudOperationsRazor.Application.dll

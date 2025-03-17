@@ -1,0 +1,19 @@
+﻿@page "{id:int}"
+@model CrudOperationsRazor.Pages.Products.EditModel
+@{
+    ViewData["Title"] = "Edit Product";
+}
+
+<h1>Edit Product</h1>
+
+<form method="post">
+    <input type="hidden" asp-for="Product.Id" />
+    <partial name="_ProductFormPartial" for="Product" />
+    <button type="submit" class="btn btn-warning"> <i class="bi bi-pencil-square"></i>Update</button>
+    <a asp-page="./Index" class="btn btn-secondary"> <i class="bi bi-arrow-left"></i> Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

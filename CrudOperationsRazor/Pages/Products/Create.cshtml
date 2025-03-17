@@ -1,0 +1,17 @@
+﻿@page
+@model CrudOperationsRazor.Pages.Products.CreateModel
+@{
+    ViewData["Title"] = "Create Product";
+}
+
+<h1>Create Product</h1>
+
+<form method="post">
+    <partial name="_ProductFormPartial" for="Product" />
+    <button type="submit" class="btn btn-success">Create</button>
+    <a asp-page="Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

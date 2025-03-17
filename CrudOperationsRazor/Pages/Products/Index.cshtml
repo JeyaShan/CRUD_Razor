@@ -1,0 +1,72 @@
+﻿@page
+@model CrudOperationsRazor.Pages.Products.IndexModel
+@{
+    ViewData["Title"] = "Product List";
+}
+
+<h1>Product List</h1>
+
+
+<form method="get" class="mb-4 row g-2">
+    <div class="col-md-3">
+        <input type="text" name="SearchTerm" value="@Model.ProductsQuery.SearchTerm" class="form-control" placeholder="Search by Name" />
+    </div>
+    <div class="col-md-3">
+        <input type="text" name="Category" value="@Model.ProductsQuery.Category" class="form-control" placeholder="Category" />
+    </div>
+    <div class="col-md-2">
+        <input type="number" name="MinPrice" value="@Model.ProductsQuery.MinPrice" class="form-control" placeholder="Min Price" />
+    </div>
+    <div class="col-md-2">
+        <input type="number" name="MaxPrice" value="@Model.ProductsQuery.MaxPrice" class="form-control" placeholder="Max Price" />
+    </div>
+    <div class="col-md-2">
+        <button type="submit" class="btn btn-primary w-100">Filter</button>
+    </div>
+</form>
+
+<div class="d-flex justify-content-end my-3">
+    <a asp-page="./Create" class="btn btn-success"><i class="bi bi-plus-lg"></i> Create New Product</a>
+</div>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Stock</th>
+            <th>Category</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model.Products)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Price.ToString("C")</td>
+                <td>@product.StockQuantity</td>
+                <td>@product.Category</td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@product.Id" class="btn btn-sm btn-warning"><i class="bi bi-pencil"></i></a>
+                    <a asp-page="./Details" asp-route-id="@product.Id" class="btn btn-sm btn-info"><i class="bi bi-eye"></i> </a>
+                    <a asp-page="./Delete" asp-route-id="@product.Id" class="btn btn-sm btn-danger"><i class="bi bi-trash"></i></a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<nav>
+    <ul class="pagination">
+        @for (int i = 1; i <= Model.TotalPages; i++)
+        {
+            <li class="page-item @(i == Model.ProductsQuery.PageIndex ? "active" : "")">
+                <a class="page-link" asp-route-PageIndex="@i"
+                   asp-route-SearchTerm="@Model.ProductsQuery.SearchTerm"
+                   asp-route-Category="@Model.ProductsQuery.Category"
+                   asp-route-MinPrice="@Model.ProductsQuery.MinPrice"
+                   asp-route-MaxPrice="@Model.ProductsQuery.MaxPrice">@i</a>
+            </li>
+        }
+    </ul>
+</nav>

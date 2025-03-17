@@ -1,0 +1,17 @@
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Infrastructure\bin\Debug\net8.0\CrudOperationsRazor.Infrastructure.deps.json
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Infrastructure\bin\Debug\net8.0\CrudOperationsRazor.Infrastructure.runtimeconfig.json
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Infrastructure\bin\Debug\net8.0\CrudOperationsRazor.Infrastructure.dll
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Infrastructure\bin\Debug\net8.0\CrudOperationsRazor.Infrastructure.pdb
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Infrastructure\bin\Debug\net8.0\CrudOperationsRazor.Domain.dll
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Infrastructure\bin\Debug\net8.0\CrudOperationsRazor.Domain.pdb
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Infrastructure\obj\Debug\net8.0\CrudOperationsRazor.Infrastructure.csproj.AssemblyReference.cache
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Infrastructure\obj\Debug\net8.0\CrudOperationsRazor.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Infrastructure\obj\Debug\net8.0\CrudOperationsRazor.Infrastructure.AssemblyInfoInputs.cache
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Infrastructure\obj\Debug\net8.0\CrudOperationsRazor.Infrastructure.AssemblyInfo.cs
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Infrastructure\obj\Debug\net8.0\CrudOperationsRazor.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Infrastructure\obj\Debug\net8.0\CrudOper.F55A72E3.Up2Date
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Infrastructure\obj\Debug\net8.0\CrudOperationsRazor.Infrastructure.dll
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Infrastructure\obj\Debug\net8.0\refint\CrudOperationsRazor.Infrastructure.dll
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Infrastructure\obj\Debug\net8.0\CrudOperationsRazor.Infrastructure.pdb
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Infrastructure\obj\Debug\net8.0\CrudOperationsRazor.Infrastructure.genruntimeconfig.cache
+D:\Jeya\CRUD_Razor\CrudOperationsRazor.Infrastructure\obj\Debug\net8.0\ref\CrudOperationsRazor.Infrastructure.dll
